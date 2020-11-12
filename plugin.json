@@ -1,0 +1,14 @@
+{
+    "id": "nodebb-plugin-vsv-homepage",
+    "name": "VSV homepage",
+    "description": "A Plugin of custom homepage",
+    "url": "/home/vinu/Projects/nodebb/plugins/custom-homepage/",
+	"library": "library.js",
+	"hooks": [
+		{ "hook": "static:app.load", "method": "load" }
+	],
+	"templates": "./public/templates",
+	"staticDirs": {
+		"public": "public"
+	}
+}

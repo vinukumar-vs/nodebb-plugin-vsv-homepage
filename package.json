@@ -1,0 +1,17 @@
+{
+  "name": "nodebb-plugin-vsv-homepage",
+  "version": "1.0.0",
+  "description": "NodeBB vsv custom homepage ",
+  "main": "library.js",
+  "scripts": {
+    "test": ""
+  },
+  "url": "git@github.com:vinukumar-vs/",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "homepage"
+  ],
+  "author": "Vinu Kumar V S",
+  "license": "ISC"
+}
